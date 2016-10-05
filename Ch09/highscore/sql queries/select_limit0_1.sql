@@ -1,0 +1,1 @@
+SELECT * FROM `highscore` LIMIT 0,1;

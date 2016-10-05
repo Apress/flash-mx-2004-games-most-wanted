@@ -1,0 +1,1 @@
+SELECT `score` FROM `highscore` WHERE `player` = 'Jim';

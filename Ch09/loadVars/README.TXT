@@ -1,0 +1,1 @@
+Note you won't be able to see any effect if you double-click and open LoadVars01.swf. This file uses the Flash Output window to 'trace' results and so can only be viewed using Control > Test Movie.

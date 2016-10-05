@@ -1,0 +1,1 @@
+INSERT INTO `highscore` (`score`, `player`) VALUES ('Jim', '3200');
